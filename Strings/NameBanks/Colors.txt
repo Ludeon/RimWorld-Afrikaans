@@ -1,0 +1,12 @@
+﻿
+//Simple colors only, no mauve and puce
+
+
+rooi
+blou
+groen
+pers
+swart
+wit
+grys
+oranje
